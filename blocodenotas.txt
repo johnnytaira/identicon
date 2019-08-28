@@ -1,0 +1,9 @@
+- struct e lista
+    - não existe uma forma de acessar um elemento da lista através de seu indice
+    - e.g: list[0]
+    # isso n da certo[red, blue, green] = hex_list
+    #_tail = eu sei que tem valor apos o green, mas quero ignora-los
+    - tuple: cada elemento tem a sua particularidade
+
+    # & == estou passando uma funcao como referencia
+   # Enum.map == para cada elemento do Enum.chunk, faço algo e retorno um Enum novo
